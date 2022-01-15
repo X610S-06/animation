@@ -16,4 +16,4 @@
 
     code .
     
-  Keep the window size = 100%
+  Run it on Full window, size = 100%
